@@ -7,19 +7,19 @@
 
 [![Discord](https://i.imgur.com/UZTVSo6.png)](https://discordapp.com/users/327026518112862210)
 
-<h4>📕 Stats<h4>
+<h2>📕 Stats<h2>
 
 <hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
 
 ![](https://github-readme-stats.vercel.app/api?username=kilichi&show_icons=true)
 
 
-<h4>🧑‍💻 Languages and tools<h4>
+<h2>🧑‍💻 Languages and tools<h2>
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kilichi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>🧠 Best repositories<h4>
+<h2>🧠 Best repositories<h2>
 
 <hr style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
 
