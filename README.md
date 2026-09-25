@@ -1,62 +1,84 @@
-<h1 align="left">Hi 👋! I'm Kilichi and i'm junior developer</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Kilichi</h1>
+  <p><strong>Mid-Level Full-Stack Developer</strong></p>
+  <p>💡 <em>10+ years coding experience & finishing Higher VET in Web Application Development (DAW)</em></p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/jose-poveda-70516328b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-###
+<br />
+
+## 🚀 About Me
+
+- 💻 **Mid-Level Developer** with over **10 years of programming background**, building modern web applications, REST APIs, and server-side automation.
+- 🎓 Finalizing my **Higher VET Degree in Web Application Development (DAW)** (*Desarrollo de Aplicaciones Web*).
+- 🎯 Specialized in backend development with **C# / .NET**, focusing on high-performance REST APIs and robust **Unit & Integration Testing** (xUnit / NUnit / Moq).
+- ⚙️ Skilled in modern full-stack architectures (**C# / .NET, React, Next.js, Astro, Node.js, Spring Boot**) and automation scripts (**Lua, Bash, Python**).
+- 🗄️ Experienced with relational databases (**MariaDB, MySQL, PostgreSQL**) and ORMs (**EF Core, Mongoose**).
+
+<br />
+
+## 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <!-- C# / .NET & Testing -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" title="C#" alt="C#" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="38" title=".NET" alt=".NET" />
+  &nbsp;
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" title="JavaScript" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" title="TypeScript" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" title="React" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="38" title="Next.js" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="38" title="Astro" alt="Astro" />
+  &nbsp;
+  <!-- Backend & Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" title="Node.js" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" title="Express" alt="Express" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" title="Java" alt="Java" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" title="Spring Boot" alt="Spring Boot" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="38" title="Lua" alt="Lua" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" title="Python" alt="Python" />
+  &nbsp;
+  <!-- Databases & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" title="MySQL" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" title="PostgreSQL" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" title="Docker" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="38" title="Bash" alt="Bash" />
+</p>
+
+<br />
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kilichi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kilichi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kilichi&show_icons=true&theme=github_dark" alt="GitHub General Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kilichi&theme=github_dark" alt="GitHub Streak Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kilichi&layout=compact&theme=github_dark" alt="Top Languages Stats" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+## 🐍 Contribution Activity
 
-<img align="right" height="115" src="https://avatars.githubusercontent.com/u/75023397?s=400&u=ff34e2ae2993140fcccad919cb16342f0343b76b&v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kilichi/Kilichi/output/snake.svg" alt="Snake Animation" width="100%" />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCf_wfCE-cHBFBy4g3cZgiUw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/kilichi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discordapp.com/users/327026518112862210" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kilichi/Kilichi/output/snake.svg" alt="Snake animation" />
-
-###
