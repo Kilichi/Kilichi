@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Kilichi</h1>
-  <p><strong>Mid-Level Full-Stack Developer</strong></p>
-  <p>💡 <em>10+ years coding experience & finishing Higher VET in Web Application Development (DAW)</em></p>
+  <h1>¡Hola 👋! Soy Jose Poveda (Kilichi)</h1>
+  <p><strong>Desarrollador Full-Stack Mid-Level</strong></p>
+  <p>💡 <em>Más de 10 años de experiencia programando y finalizando el Grado Superior en DAW</em></p>
   
   <p>
     <a href="https://www.linkedin.com/in/jose-poveda-70516328b/" target="_blank">
@@ -12,17 +12,17 @@
 
 <br />
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 💻 **Mid-Level Developer** with over **10 years of programming background**, building modern web applications, REST APIs, and server-side automation.
-- 🎓 Finalizing my **Higher VET Degree in Web Application Development (DAW)** (*Desarrollo de Aplicaciones Web*).
-- 🎯 Specialized in backend development with **C# / .NET**, focusing on high-performance REST APIs and robust **Unit & Integration Testing** (xUnit / NUnit / Moq).
-- ⚙️ Skilled in modern full-stack architectures (**C# / .NET, React, Next.js, Astro, Node.js, Spring Boot**) and automation scripts (**Lua, Bash, Python**).
-- 🗄️ Experienced with relational databases (**MariaDB, MySQL, PostgreSQL**) and ORMs (**EF Core, Mongoose**).
+- 💻 **Desarrollador Mid-Level** con más de **10 años de trayectoria en programación**, creando aplicaciones web modernas, APIs REST y scripts de automatización backend.
+- 🎓 Finalizando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
+- 🎯 Especializado en desarrollo backend con **C# / .NET**, enfocado en APIs REST de alto rendimiento y **Testing Unitario y de Integración** (xUnit / NUnit / Moq).
+- ⚙️ Experiencia en arquitecturas full-stack modernas (**C# / .NET, React, Next.js, Astro, Node.js, Spring Boot**) y scripting (**Lua, Bash, Python**).
+- 🗄️ Manejo de bases de datos relacionales (**MariaDB, MySQL, PostgreSQL**) y ORMs (**Entity Framework Core, Mongoose**).
 
 <br />
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tecnologías y Habilidades
 
 <p align="left">
   <!-- C# / .NET & Testing -->
@@ -41,7 +41,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="38" title="Astro" alt="Astro" />
   &nbsp;
-  <!-- Backend & Languages -->
+  <!-- Backend & Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" title="Node.js" alt="Node.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" title="Express" alt="Express" />
@@ -54,7 +54,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" title="Python" alt="Python" />
   &nbsp;
-  <!-- Databases & DevOps -->
+  <!-- Bases de datos y DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" title="MySQL" alt="MySQL" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" title="PostgreSQL" alt="PostgreSQL" />
@@ -66,19 +66,19 @@
 
 <br />
 
-## 📊 GitHub Analytics
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kilichi&show_icons=true&theme=github_dark" alt="GitHub General Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kilichi&theme=github_dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kilichi&show_icons=true&theme=github_dark" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kilichi&theme=github_dark" alt="Racha de Commits" />
   <br /><br />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kilichi&layout=compact&theme=github_dark" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kilichi&layout=compact&theme=github_dark" alt="Lenguajes Más Usados" />
 </div>
 
 <br />
 
-## 🐍 Contribution Activity
+## 🐍 Actividad de Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kilichi/Kilichi/output/snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kilichi/Kilichi/output/snake.svg" alt="Animación Snake" width="100%" />
 </div>
